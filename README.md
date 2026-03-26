@@ -1,9 +1,31 @@
 ## Hi there 👋
 
-<!--
-**leonardoalva98/leonardoalva98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leo — a Data Science student at BYU-Idaho (graduating April 2026) with a background in Industrial Engineering from Peru. I build data pipelines, dashboards, and predictive models to turn messy data into clear insights.
+💼 I'm looking for data analyst / BI roles in the Salt Lake City & South Jordan, UT area.
 
-Here are some ideas to get you started:
+### What I work with
+- **Languages:** Python, SQL, R
+- **BI & Visualization:** Power BI, Tableau, Excel
+- **Cloud & Data:** AWS (S3, Lambda, Glue), MySQL, ETL pipelines
+- **ML:** Scikit-Learn, XGBoost, SHAP
+
+- 🔭 I'm currently working on a [Sepsis Early Warning System](https://leonardoalva98.github.io/senior_project/) — building a predictive model on 790K+ ICU records to identify sepsis onset up to 12 hours early
+- 🌱 I'm currently learning Snowflake and dbt to deepen my data warehousing skills
+
+
+### Projects
+- 🏥 **Sepsis Early Warning System** — ETL pipeline on 790K+ records, XGBoost model predicting sepsis onset 12 hours early
+- 📈 **S&P 500 Price Direction Predictor** — Financial data pipeline integrating Yahoo Finance + FRED API, 77.8% precision
+- 🚗 **BMW Value Retention Analysis** — Regression modeling on used car depreciation across model lines
+
+### About me
+- 🔭 Currently looking for data analyst / BI roles in Utah
+- 🌎 Bilingual: English & Spanish (native)
+- 🎓 4.0 GPA | BYU-Idaho Academic Scholarship (Full Tuition)
+- 🚘 Car enthusiast who also happens to analyze car data
+- 📫 Reach me: alv22027@byui.edu | [LinkedIn](https://linkedin.com/in/leoalvarino) | [Portfolio](https://leonardoalva98.github.io/Personal-Portfolio/)
+
+- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
