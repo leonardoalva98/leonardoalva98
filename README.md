@@ -19,7 +19,6 @@ I'm Leo — a Data Science student at BYU-Idaho (graduating April 2026) with a b
 - 🚗 **BMW Value Retention Analysis** — Regression modeling on used car depreciation across model lines
 
 ### About me
-- 🔭 Currently looking for data analyst / BI roles in Utah
 - 🌎 Bilingual: English & Spanish (native)
 - 🎓 4.0 GPA | BYU-Idaho Academic Scholarship (Full Tuition)
 - 🚘 Car enthusiast who also happens to analyze car data
