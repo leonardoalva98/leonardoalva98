@@ -1,6 +1,6 @@
 ## 👋
 
-I'm Leo — a Data Science Graduate with a background in Industrial Engineering from Peru 🇵🇪. I build data pipelines, dashboards, and predictive models to turn messy data into clear insights.
+I'm Leo — a Data Science graduate with a background in Industrial Engineering from Peru 🇵🇪. I build data pipelines, dashboards, and predictive models to turn messy data into clear insights.
 💼 I'm looking for a data analyst / BI full time role in the Salt Lake City/South Jordan, UT area.
 
 ### What I work with
